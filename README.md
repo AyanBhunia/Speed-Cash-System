@@ -2,7 +2,7 @@
 This is used to transfer money from one place to another within a day. This is basically used to speed up the money transfer. The necessary information for the money transfer from the source bank to the destination bank is sent in the form of file on daily basis. This file contains the information like remitter details, beneficiary details and DD (Demand Draft) details, etc.
 
 # speed-cash-system
-Speed cash system built on c# using visual studio
+Speed cash system with design documents and built on c# using visual studio.
 
 **How to Run:**
 1. Clone or download the project from Github and run on Visual Studio.
